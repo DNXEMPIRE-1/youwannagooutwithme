@@ -1,3 +1,3 @@
-✨[doyouwannagooutwithme](youwannagooutwithme.vercel.app) 
+✨[doyouwannagooutwithme](https://youwannagooutwithme.vercel.app/)
 
 A website to invite your lover for a date 🥰
